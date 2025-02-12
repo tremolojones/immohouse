@@ -13,7 +13,7 @@ export function Navbar() {
           <div className="flex">
             <Link to="/" className="flex-shrink-0 flex items-center">
               <Home className="h-8 w-8 text-blue-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">ImmoExpert</span>
+              <span className="ml-2 text-xl font-bold text-gray-900">ImmoTchum</span>
             </Link>
           </div>
 

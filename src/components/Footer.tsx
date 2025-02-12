@@ -16,15 +16,15 @@ export function Footer() {
             <div className="space-y-2">
               <p className="flex items-center text-gray-400">
                 <MapPin className="h-5 w-5 mr-2" />
-                123 Avenue des Champs-Élysées, Paris
+                43 Avenue des Champs, Bruxelles
               </p>
               <p className="flex items-center text-gray-400">
                 <Phone className="h-5 w-5 mr-2" />
-                +33 1 23 45 67 89
+                +32 4 23 45 67 89
               </p>
               <p className="flex items-center text-gray-400">
                 <Mail className="h-5 w-5 mr-2" />
-                contact@immoexpert.fr
+                contact@immoexpert.be
               </p>
             </div>
           </div>
@@ -44,7 +44,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-800 text-center text-gray-400">
-          <p>&copy; 2024 ImmoExpert. Tous droits réservés.</p>
+          <p>&copy; 2025 ImmoTchum. Tous droits réservés.</p>
         </div>
       </div>
     </footer>
